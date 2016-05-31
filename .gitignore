@@ -1,12 +1,14 @@
+# My settings
+config.json
+.gitignore
+.gitattributes
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
 
 # Folder config file
 Desktop.ini
-
-# npm Packge
-/node_modules/*
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
