@@ -1,4 +1,5 @@
 # My settings
+/node_modules/*
 config.json
 .gitignore
 .gitattributes
