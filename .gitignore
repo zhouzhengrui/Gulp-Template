@@ -1,8 +1,6 @@
 # My settings
-/node_modules/*
+node_modules/*
 config.json
-.gitignore
-.gitattributes
 
 # Windows image file caches
 Thumbs.db
